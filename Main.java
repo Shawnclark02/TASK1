@@ -1,6 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hello, kamusta ka kupal");
+        System.out.println("Kamusta, Mundo!");
     }
 }
